@@ -3,6 +3,7 @@
 // The list of file replacements can be found in `angular.json`.
 
 //changes
+//second time trying gitignore
 export const environment = {
   production: false,
   firebase: {
